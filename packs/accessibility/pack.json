@@ -1,0 +1,7 @@
+{
+  "name": "accessibility",
+  "description": "WCAG 2.2 level AA for websites: structure, keyboard, focus, contrast, zoom, motion and accessible component patterns.",
+  "version": "1.0.0",
+  "tags": ["web", "accessibility"],
+  "requires": []
+}

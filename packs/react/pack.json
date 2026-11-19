@@ -1,0 +1,13 @@
+{
+  "name": "react",
+  "description": "React 19 with React Compiler, and React 16.14 for platforms that pin it: components, data, Actions, effects, transitions and React Doctor checks.",
+  "version": "1.0.0",
+  "tags": ["react", "ui"],
+  "requires": [
+    "typescript"
+  ],
+  "latest": "19",
+  "notes": [
+    "Add the React Doctor skill for your agents: `npx react-doctor@latest install`"
+  ]
+}

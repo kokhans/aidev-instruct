@@ -1,0 +1,7 @@
+{
+  "name": "responsive",
+  "description": "Mobile-first layout, browser support baseline, colour schemes, print styles and screen-size checks for every UI change.",
+  "version": "1.0.0",
+  "tags": ["web", "css", "responsive"],
+  "requires": []
+}

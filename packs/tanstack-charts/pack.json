@@ -1,0 +1,9 @@
+{
+  "name": "tanstack-charts",
+  "description": "TanStack Charts: a typed grammar of marks, channels and scales that renders accessible, responsive SVG with framework adapters.",
+  "version": "1.0.0",
+  "tags": ["tanstack", "react", "charts"],
+  "requires": [
+    "typescript"
+  ]
+}

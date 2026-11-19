@@ -1,0 +1,9 @@
+{
+  "name": "efcore",
+  "description": "EF Core, database neutral: context lifetime, modeling, queries, writes, concurrency, migrations and performance.",
+  "version": "1.0.0",
+  "tags": ["dotnet", "data", "orm"],
+  "requires": [
+    "dotnet@>=8"
+  ]
+}

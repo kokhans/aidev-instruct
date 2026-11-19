@@ -1,0 +1,9 @@
+{
+  "name": "aspire",
+  "description": "Aspire for .NET apps: AppHost resources, service defaults, client integrations, local orchestration with the aspire CLI and deployment.",
+  "version": "1.0.0",
+  "tags": ["dotnet", "aspire"],
+  "requires": [
+    "dotnet@>=8"
+  ]
+}

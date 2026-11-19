@@ -1,0 +1,7 @@
+{
+  "name": "bicep",
+  "description": "Azure infrastructure in Bicep: Azure Verified Modules, .bicepparam files, linter settings, secure values, what-if and deployment stacks.",
+  "version": "1.0.0",
+  "tags": ["azure", "iac", "infrastructure"],
+  "requires": []
+}

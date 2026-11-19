@@ -1,0 +1,9 @@
+{
+  "name": "kysely",
+  "description": "Kysely type-safe SQL query builder: database types, queries, raw SQL safety, transactions and migrations with kysely-ctl.",
+  "version": "1.0.0",
+  "tags": ["typescript", "data", "sql"],
+  "requires": [
+    "typescript"
+  ]
+}

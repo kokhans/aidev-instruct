@@ -1,0 +1,9 @@
+{
+  "name": "go-echo",
+  "description": "Echo HTTP APIs in Go: handlers, centralized errors, binding and validation, middleware, trusted proxies, graceful shutdown, tests and migration from v4.",
+  "version": "1.0.0",
+  "tags": ["go", "api"],
+  "requires": [
+    "go"
+  ]
+}

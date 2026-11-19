@@ -1,0 +1,20 @@
+# <%name%> Feed
+
+Packs and stacks for this company, read by `aidev-instruct` from this repository's latest release.
+
+## Add a Pack
+
+1. Create `packs/<%name%>-<topic>/pack.json` with its rules, skills or agents.
+2. Run `npx aidev-instruct@<%version%> feed validate`.
+3. Merge to `main`.
+
+## Release
+
+Run the Release workflow in the Actions tab. It bumps the changed packs and stacks, writes changelogs, commits `Release <version>` and tags it. Projects get the release on their next `update`.
+
+## Use the Feed
+
+```bash
+npx aidev-instruct@latest feeds add <%name%> github:<owner>/<%name%> --tokenEnv <%token%>
+npx aidev-instruct@latest add <%name%>-example
+```

@@ -1,0 +1,9 @@
+{
+  "name": "gqlgen",
+  "description": "Schema-first GraphQL servers in Go with gqlgen: code generation, resolvers, dataloaders and batch resolvers, server hardening, errors and subscriptions.",
+  "version": "1.0.0",
+  "tags": ["go", "graphql", "api"],
+  "requires": [
+    "go"
+  ]
+}

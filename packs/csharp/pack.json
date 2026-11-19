@@ -1,0 +1,8 @@
+{
+  "name": "csharp",
+  "description": "C# for every supported language version: shared rules plus C# 15, 14 and 7.3 rules for types, patterns, collections, async code, time and logging.",
+  "version": "1.0.0",
+  "tags": ["dotnet", "csharp"],
+  "requires": [],
+  "latest": "15"
+}

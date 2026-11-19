@@ -1,0 +1,12 @@
+{
+  "name": "fastapi",
+  "description": "FastAPI with Pydantic: Annotated dependencies, models, responses, async rules, settings, security and tests.",
+  "version": "1.0.0",
+  "tags": ["python", "api"],
+  "requires": [
+    "python"
+  ],
+  "notes": [
+    "Add FastAPI's official agent skill: `uvx library-skills install --skill fastapi --yes` (add `--claude` for Claude Code)"
+  ]
+}

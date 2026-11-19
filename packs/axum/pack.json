@@ -1,0 +1,9 @@
+{
+  "name": "axum",
+  "description": "Axum web services: routing, state, extractors, error responses, tower-http middleware, graceful shutdown and tests.",
+  "version": "1.0.0",
+  "tags": ["rust", "api"],
+  "requires": [
+    "rust"
+  ]
+}

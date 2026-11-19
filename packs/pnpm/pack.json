@@ -1,0 +1,10 @@
+{
+  "name": "pnpm",
+  "description": "pnpm as package manager: lockfile, workspaces, catalogs, build-script approval and supply-chain settings.",
+  "version": "1.0.0",
+  "tags": ["typescript", "tooling", "pnpm"],
+  "requires": [],
+  "conflicts": [
+    "bun"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "tanstack-store",
+  "description": "TanStack Store for React: signal-based stores, atoms and selectors. Pre-1.0, so minor releases can break APIs.",
+  "version": "1.0.0",
+  "tags": ["tanstack", "react", "state"],
+  "requires": [
+    "react@>=16"
+  ]
+}

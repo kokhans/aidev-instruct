@@ -1,0 +1,11 @@
+{
+  "name": "public-site",
+  "description": "Add-on for public sites that search engines and anonymous visitors reach: SEO, performance, consent and a release audit.",
+  "version": "1.0.0",
+  "packs": [
+    "seo",
+    "web-performance",
+    "cookie-consent",
+    "web-auditor"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sqlc",
+  "description": "Type-safe Go database code generated from SQL with sqlc: config, query annotations, parameters, overrides, transactions and CI checks.",
+  "version": "1.0.0",
+  "tags": ["go", "sql", "data"],
+  "requires": [
+    "go"
+  ]
+}

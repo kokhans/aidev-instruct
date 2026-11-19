@@ -1,0 +1,9 @@
+{
+  "name": "typeorm",
+  "description": "TypeORM: DataSource, entities, repositories, QueryBuilder, transactions and migrations.",
+  "version": "1.0.0",
+  "tags": ["typescript", "data", "orm"],
+  "requires": [
+    "typescript"
+  ]
+}

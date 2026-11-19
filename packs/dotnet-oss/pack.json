@@ -1,0 +1,9 @@
+{
+  "name": "dotnet-oss",
+  "description": "Open-source dependencies only for .NET: blocks commercial NuGet packages, flags revenue-capped and copyleft licenses, and plans replacements.",
+  "version": "1.0.0",
+  "tags": ["dotnet", "oss"],
+  "requires": [
+    "dotnet@>=4.8"
+  ]
+}

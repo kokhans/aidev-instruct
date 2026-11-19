@@ -1,0 +1,14 @@
+{
+  "name": "react-router",
+  "description": "React Router framework mode shared by every mode: route modules, typegen, meta, forms, fetchers and error boundaries.",
+  "version": "1.0.0",
+  "tags": ["react", "react-router", "routing"],
+  "requires": [
+    "react@>=19",
+    "vite"
+  ],
+  "conflicts": [
+    "tanstack-router",
+    "nextjs"
+  ]
+}

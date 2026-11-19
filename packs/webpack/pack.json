@@ -1,0 +1,9 @@
+{
+  "name": "webpack",
+  "description": "webpack for maintaining existing builds: config, built-in TypeScript, CSS and HTML, ES module output and caching.",
+  "version": "1.0.0",
+  "tags": ["typescript", "tooling", "bundler"],
+  "requires": [
+    "typescript"
+  ]
+}

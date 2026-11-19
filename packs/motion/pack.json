@@ -1,0 +1,9 @@
+{
+  "name": "motion",
+  "description": "Motion for React (motion/react) animations with a small bundle, reduced motion support and accessible text.",
+  "version": "1.0.0",
+  "tags": ["react", "ui", "animation"],
+  "requires": [
+    "react@>=18"
+  ]
+}

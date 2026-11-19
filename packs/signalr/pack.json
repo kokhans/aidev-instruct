@@ -1,0 +1,9 @@
+{
+  "name": "signalr",
+  "description": "ASP.NET Core SignalR hubs: typing, auth and token refresh, groups, reconnects, limits, Redis scale-out and tests, plus the TypeScript client.",
+  "version": "1.0.0",
+  "tags": ["dotnet", "realtime"],
+  "requires": [
+    "aspnetcore"
+  ]
+}

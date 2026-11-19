@@ -1,0 +1,10 @@
+{
+  "name": "dataverse-client",
+  "description": "ServiceClient from Microsoft.PowerPlatform.Dataverse.Client on .NET: authentication, async calls, bulk operations, parallel requests and service protection limits.",
+  "version": "1.0.0",
+  "tags": ["power-platform", "dataverse", "typescript"],
+  "requires": [
+    "dataverse",
+    "dotnet@>=4.8"
+  ]
+}

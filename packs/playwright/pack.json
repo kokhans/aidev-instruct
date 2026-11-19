@@ -1,0 +1,9 @@
+{
+  "name": "playwright",
+  "description": "Playwright Test for end-to-end tests: locators, web-first assertions, auth setup and CI.",
+  "version": "1.0.0",
+  "tags": ["testing", "browser"],
+  "requires": [
+    "typescript"
+  ]
+}

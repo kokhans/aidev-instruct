@@ -1,0 +1,9 @@
+{
+  "name": "rust-sqlx",
+  "description": "SQLx: compile-time checked queries, offline mode, pools, transactions, migrations and database tests.",
+  "version": "1.0.0",
+  "tags": ["rust", "sql", "data"],
+  "requires": [
+    "rust"
+  ]
+}

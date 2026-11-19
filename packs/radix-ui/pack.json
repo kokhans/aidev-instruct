@@ -1,0 +1,9 @@
+{
+  "name": "radix-ui",
+  "description": "Radix UI primitives from the unified radix-ui package for dialogs, menus, popovers and other accessible widgets.",
+  "version": "1.0.0",
+  "tags": ["react", "ui", "components"],
+  "requires": [
+    "react@>=16"
+  ]
+}

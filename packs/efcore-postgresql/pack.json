@@ -1,0 +1,10 @@
+{
+  "name": "efcore-postgresql",
+  "description": "EF Core on PostgreSQL through Npgsql: provider setup, enums, timestamps, xmin concurrency, JSON, arrays, indexes, full-text search and bulk COPY.",
+  "version": "1.0.0",
+  "tags": ["dotnet", "data", "orm", "postgresql"],
+  "requires": [
+    "efcore",
+    "postgresql"
+  ]
+}

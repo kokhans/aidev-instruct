@@ -1,0 +1,13 @@
+{
+  "name": "nextjs",
+  "description": "Next.js App Router shared by every mode: Server and Client Components, Turbopack, configuration, metadata, images and fonts.",
+  "version": "1.0.0",
+  "tags": ["nextjs", "react", "framework"],
+  "requires": [
+    "react@>=19"
+  ],
+  "conflicts": [
+    "react-router",
+    "tanstack-router"
+  ]
+}

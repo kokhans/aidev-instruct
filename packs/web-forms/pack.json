@@ -1,0 +1,7 @@
+{
+  "name": "web-forms",
+  "description": "Website forms: progressive enhancement, server validation, accessible errors, spam protection and submission handling.",
+  "version": "1.0.0",
+  "tags": ["web", "forms"],
+  "requires": []
+}

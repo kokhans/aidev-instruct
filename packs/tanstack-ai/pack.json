@@ -1,0 +1,9 @@
+{
+  "name": "tanstack-ai",
+  "description": "TanStack AI: provider-agnostic chat streaming, isomorphic tools, approvals and structured output.",
+  "version": "1.0.0",
+  "tags": ["tanstack", "ai"],
+  "requires": [
+    "typescript"
+  ]
+}

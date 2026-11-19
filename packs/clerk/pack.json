@@ -1,0 +1,9 @@
+{
+  "name": "clerk",
+  "description": "Clerk authentication with the current SDKs: keys, server-side auth checks, authorization with has(), the Show component and webhooks.",
+  "version": "1.0.0",
+  "tags": ["typescript", "auth"],
+  "requires": [
+    "typescript"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "mikro-orm",
+  "description": "MikroORM: defineEntity, request-scoped EntityManager, unit of work, transactions, queries and migrations.",
+  "version": "1.0.0",
+  "tags": ["typescript", "data", "orm"],
+  "requires": [
+    "typescript"
+  ]
+}

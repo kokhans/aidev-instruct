@@ -1,0 +1,6 @@
+{
+  "name": "rust",
+  "description": "Rust with Cargo, Clippy and rustfmt: manifests, lints, error handling, async with Tokio, tracing and tests.",
+  "version": "1.0.0",
+  "tags": ["rust"]
+}

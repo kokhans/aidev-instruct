@@ -1,0 +1,9 @@
+{
+  "name": "react-email",
+  "description": "Email templates as React components with React Email: the react-email package, preview server, rendering and email-safe styling.",
+  "version": "1.0.0",
+  "tags": ["react", "email"],
+  "requires": [
+    "react@>=18"
+  ]
+}

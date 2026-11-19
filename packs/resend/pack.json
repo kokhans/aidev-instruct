@@ -1,0 +1,9 @@
+{
+  "name": "resend",
+  "description": "Transactional email sent through the Resend Node.js SDK: sending, idempotency, rate limits and webhooks.",
+  "version": "1.0.0",
+  "tags": ["typescript", "email"],
+  "requires": [
+    "typescript"
+  ]
+}

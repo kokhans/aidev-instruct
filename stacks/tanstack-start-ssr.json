@@ -1,0 +1,20 @@
+{
+  "name": "tanstack-start-ssr",
+  "description": "TanStack Start with server rendering, TanStack Query and TanStack Form.",
+  "version": "1.0.0",
+  "packs": [
+    "tanstack-start-ssr",
+    "tanstack-query",
+    "tanstack-form",
+    "typescript",
+    "zod",
+    "biome",
+    "vitest",
+    "playwright",
+    "tailwind",
+    "responsive",
+    "accessibility",
+    "web-security",
+    "code-reviewer"
+  ]
+}

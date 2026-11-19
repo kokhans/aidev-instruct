@@ -1,0 +1,11 @@
+{
+  "name": "go-echo-api",
+  "description": "Go HTTP API with Echo and sqlc on PostgreSQL.",
+  "version": "1.0.0",
+  "packs": [
+    "go-echo",
+    "sqlc",
+    "postgresql",
+    "code-reviewer"
+  ]
+}

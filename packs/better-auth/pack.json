@@ -1,0 +1,9 @@
+{
+  "name": "better-auth",
+  "description": "better-auth setup, sessions and security, with adapter and framework integrations for the packs a project uses.",
+  "version": "1.0.0",
+  "tags": ["typescript", "auth", "backend"],
+  "requires": [
+    "typescript"
+  ]
+}

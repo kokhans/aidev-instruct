@@ -1,0 +1,10 @@
+{
+  "name": "drizzle-postgresql",
+  "description": "Drizzle ORM on PostgreSQL: drivers, pg-core column types, indexes, row-level security and migrations that run inside a transaction.",
+  "version": "1.0.0",
+  "tags": ["typescript", "data", "orm", "postgresql"],
+  "requires": [
+    "drizzle",
+    "postgresql"
+  ]
+}

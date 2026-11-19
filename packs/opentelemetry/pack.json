@@ -1,0 +1,7 @@
+{
+  "name": "opentelemetry",
+  "description": "OpenTelemetry traces, metrics and logs: resources, semantic conventions, OTLP export, sampling and context propagation, with SDK setup per language.",
+  "version": "1.0.0",
+  "tags": ["observability", "infrastructure"],
+  "requires": []
+}

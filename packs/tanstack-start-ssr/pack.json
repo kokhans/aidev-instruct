@@ -1,0 +1,12 @@
+{
+  "name": "tanstack-start-ssr",
+  "description": "TanStack Start with server rendering: selective SSR, streaming loaders, head tags, status codes, headers and prerendering.",
+  "version": "1.0.0",
+  "tags": ["tanstack", "react", "ssr"],
+  "requires": [
+    "tanstack-start"
+  ],
+  "conflicts": [
+    "tanstack-start-spa"
+  ]
+}

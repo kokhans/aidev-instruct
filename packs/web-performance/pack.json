@@ -1,0 +1,7 @@
+{
+  "name": "web-performance",
+  "description": "Core Web Vitals, images, fonts, caching, loading, empty and error states, and URL state for websites.",
+  "version": "1.0.0",
+  "tags": ["web", "performance"],
+  "requires": []
+}

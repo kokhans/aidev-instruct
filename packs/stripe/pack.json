@@ -1,0 +1,9 @@
+{
+  "name": "stripe",
+  "description": "Stripe payments and billing with stripe-node: Checkout Sessions, webhooks and event destinations, idempotency and key handling.",
+  "version": "1.0.0",
+  "tags": ["typescript", "payments"],
+  "requires": [
+    "typescript"
+  ]
+}

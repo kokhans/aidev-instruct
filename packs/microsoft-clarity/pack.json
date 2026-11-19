@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-clarity",
+  "description": "Microsoft Clarity session recordings and heatmaps: loading, masking, custom tags, consent and CSP.",
+  "version": "1.0.0",
+  "tags": ["analytics", "microsoft"],
+  "requires": []
+}

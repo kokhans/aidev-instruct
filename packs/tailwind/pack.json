@@ -1,0 +1,7 @@
+{
+  "name": "tailwind",
+  "description": "Tailwind CSS with CSS-first configuration: theme tokens, utilities, variants and class composition.",
+  "version": "1.0.0",
+  "tags": ["css", "ui", "styling"],
+  "requires": []
+}

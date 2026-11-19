@@ -1,0 +1,9 @@
+{
+  "name": "aspnetcore-openapi",
+  "description": "OpenAPI 3.2 documents from Microsoft.AspNetCore.OpenApi with Swagger UI, transformers and build-time generation.",
+  "version": "1.0.0",
+  "tags": ["dotnet", "api", "openapi"],
+  "requires": [
+    "aspnetcore"
+  ]
+}

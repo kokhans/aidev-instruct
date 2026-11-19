@@ -1,0 +1,7 @@
+{
+  "name": "google-analytics",
+  "description": "Google Analytics 4: page views on client routing, typed events, collection limits, consent and CSP.",
+  "version": "1.0.0",
+  "tags": ["analytics", "google"],
+  "requires": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "tanstack-redact",
+  "description": "TanStack Redact: an alternative synchronous runtime for React apps, swapped in at build time. Pre-1.0, so minor releases can break behavior.",
+  "version": "1.0.0",
+  "tags": ["tanstack", "react", "runtime"],
+  "requires": [
+    "react@>=19"
+  ]
+}

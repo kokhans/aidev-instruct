@@ -1,0 +1,12 @@
+{
+  "name": "react-router-ssr",
+  "description": "React Router framework mode with server rendering: loaders, actions, middleware, headers, streaming and prerendering.",
+  "version": "1.0.0",
+  "tags": ["react", "react-router", "ssr"],
+  "requires": [
+    "react-router"
+  ],
+  "conflicts": [
+    "react-router-spa"
+  ]
+}

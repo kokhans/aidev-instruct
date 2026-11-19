@@ -1,0 +1,9 @@
+{
+  "name": "tanstack-form",
+  "description": "TanStack Form for React: form options, Standard Schema validation, fields, subscriptions and composition.",
+  "version": "1.0.0",
+  "tags": ["tanstack", "react", "forms"],
+  "requires": [
+    "react@>=17"
+  ]
+}

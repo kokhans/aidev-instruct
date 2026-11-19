@@ -1,0 +1,9 @@
+{
+  "name": "redux",
+  "description": "Redux Toolkit and RTK Query for global client state and server data caching. Never legacy Redux.",
+  "version": "1.0.0",
+  "tags": ["react", "state"],
+  "requires": [
+    "react@>=18"
+  ]
+}

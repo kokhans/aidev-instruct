@@ -1,0 +1,7 @@
+{
+  "name": "go",
+  "description": "Go on the latest stable release: modules and toolchain, golangci-lint, errors, context, concurrency, log/slog and testing.",
+  "version": "1.0.0",
+  "tags": ["go"],
+  "requires": []
+}

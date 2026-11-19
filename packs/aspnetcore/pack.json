@@ -1,0 +1,9 @@
+{
+  "name": "aspnetcore",
+  "description": "ASP.NET Core minimal APIs: TypedResults, built-in validation, ProblemDetails, auth, options, health checks and integration tests.",
+  "version": "1.0.0",
+  "tags": ["dotnet", "api", "web"],
+  "requires": [
+    "dotnet@>=8"
+  ]
+}

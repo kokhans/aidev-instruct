@@ -1,0 +1,10 @@
+{
+  "name": "tanstack-start",
+  "description": "TanStack Start shared by every mode: Vite plugin, server functions, middleware, server routes, import protection and environment variables.",
+  "version": "1.0.0",
+  "tags": ["tanstack", "react", "fullstack"],
+  "requires": [
+    "tanstack-router",
+    "vite"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "axum-api",
+  "description": "Rust HTTP API with Axum and SQLx on PostgreSQL.",
+  "version": "1.0.0",
+  "packs": [
+    "axum",
+    "rust-sqlx",
+    "postgresql",
+    "code-reviewer"
+  ]
+}

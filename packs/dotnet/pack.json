@@ -1,0 +1,10 @@
+{
+  "name": "dotnet",
+  "description": ".NET SDK and target frameworks: global.json, .slnx solutions, shared MSBuild properties, central package management, analyzers, xUnit v3 on Microsoft.Testing.Platform, and rules for .NET 11, .NET 10 and .NET Framework 4.8 targets.",
+  "version": "1.0.0",
+  "tags": ["dotnet"],
+  "requires": [
+    "csharp@>=7.3"
+  ],
+  "latest": "11"
+}

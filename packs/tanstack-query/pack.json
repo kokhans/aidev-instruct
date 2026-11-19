@@ -1,0 +1,9 @@
+{
+  "name": "tanstack-query",
+  "description": "TanStack Query for React: query option factories, keys, queryClient.query, suspense queries, mutations and invalidation.",
+  "version": "1.0.0",
+  "tags": ["tanstack", "react", "data"],
+  "requires": [
+    "react@>=18"
+  ]
+}

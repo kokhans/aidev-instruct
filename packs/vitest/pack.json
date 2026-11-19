@@ -1,0 +1,9 @@
+{
+  "name": "vitest",
+  "description": "Vitest for unit tests and component tests in browser mode.",
+  "version": "1.0.0",
+  "tags": ["typescript", "testing"],
+  "requires": [
+    "typescript"
+  ]
+}

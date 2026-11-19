@@ -1,0 +1,7 @@
+{
+  "name": "seo",
+  "description": "Search and sharing: server HTML for crawlers, canonical URLs, metadata, Open Graph, share images, structured data, robots, sitemap, RSS and icons.",
+  "version": "1.0.0",
+  "tags": ["web", "seo"],
+  "requires": []
+}

@@ -1,0 +1,12 @@
+{
+  "name": "tanstack-start-spa",
+  "description": "TanStack Start in SPA mode: a prerendered shell, client rendering, server functions and host rewrites.",
+  "version": "1.0.0",
+  "tags": ["tanstack", "react", "spa"],
+  "requires": [
+    "tanstack-start"
+  ],
+  "conflicts": [
+    "tanstack-start-ssr"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "mongoose",
+  "description": "Mongoose for MongoDB: inferred schema types, middleware, lean reads, update validation, query injection, indexes and transactions.",
+  "version": "1.0.0",
+  "tags": ["typescript", "data", "orm", "mongodb"],
+  "requires": [
+    "typescript"
+  ]
+}

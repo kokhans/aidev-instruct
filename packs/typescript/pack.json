@@ -1,0 +1,7 @@
+{
+  "name": "typescript",
+  "description": "TypeScript compiler settings, type design and the command convention for any package manager.",
+  "version": "1.0.0",
+  "tags": ["typescript", "language"],
+  "requires": []
+}

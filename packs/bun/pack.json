@@ -1,0 +1,10 @@
+{
+  "name": "bun",
+  "description": "Bun as package manager, script runner and runtime.",
+  "version": "1.0.0",
+  "tags": ["typescript", "tooling", "bun"],
+  "requires": [],
+  "conflicts": [
+    "pnpm"
+  ]
+}

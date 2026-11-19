@@ -1,0 +1,7 @@
+{
+  "name": "github-actions",
+  "description": "GitHub Actions workflows: least-privilege tokens, locked or SHA-pinned actions, OIDC, safe triggers, caching and concurrency, with toolchain setup per stack.",
+  "version": "1.0.0",
+  "tags": ["ci", "github", "infrastructure"],
+  "requires": []
+}

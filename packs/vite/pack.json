@@ -1,0 +1,9 @@
+{
+  "name": "vite",
+  "description": "Vite with Rolldown and Oxc: configuration, environment variables, assets and production builds.",
+  "version": "1.0.0",
+  "tags": ["typescript", "tooling", "bundler"],
+  "requires": [
+    "typescript"
+  ]
+}

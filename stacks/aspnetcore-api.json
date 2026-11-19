@@ -1,0 +1,12 @@
+{
+  "name": "aspnetcore-api",
+  "description": "ASP.NET Core minimal API with OpenAPI, EF Core on PostgreSQL and open-source dependencies only.",
+  "version": "1.0.0",
+  "packs": [
+    "aspnetcore",
+    "aspnetcore-openapi",
+    "efcore-postgresql",
+    "dotnet-oss",
+    "code-reviewer"
+  ]
+}

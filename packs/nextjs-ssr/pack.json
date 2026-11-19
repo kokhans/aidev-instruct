@@ -1,0 +1,12 @@
+{
+  "name": "nextjs-ssr",
+  "description": "Next.js with a server: Cache Components, Partial Prefetching, Server Actions, Proxy and request-time rendering.",
+  "version": "1.0.0",
+  "tags": ["nextjs", "react", "ssr"],
+  "requires": [
+    "nextjs"
+  ],
+  "conflicts": [
+    "nextjs-spa"
+  ]
+}

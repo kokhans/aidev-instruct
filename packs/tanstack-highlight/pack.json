@@ -1,0 +1,9 @@
+{
+  "name": "tanstack-highlight",
+  "description": "TanStack Highlight: a tiny synchronous syntax highlighter for docs and blogs with selective languages and CSS-variable themes.",
+  "version": "1.0.0",
+  "tags": ["tanstack", "ui", "syntax-highlighting"],
+  "requires": [
+    "typescript"
+  ]
+}

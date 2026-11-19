@@ -1,0 +1,7 @@
+{
+  "name": "web-security",
+  "description": "Website security: strict CSP with nonces or hashes and strict-dynamic, security headers, cookies and server-only secrets.",
+  "version": "1.0.0",
+  "tags": ["web", "security"],
+  "requires": []
+}

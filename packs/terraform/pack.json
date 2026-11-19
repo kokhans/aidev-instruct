@@ -1,0 +1,7 @@
+{
+  "name": "terraform",
+  "description": "Terraform configuration: version constraints, lock file, remote state, secrets kept out of state, modules and safe refactoring.",
+  "version": "1.0.0",
+  "tags": ["iac", "infrastructure"],
+  "requires": []
+}

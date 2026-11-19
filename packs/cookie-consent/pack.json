@@ -1,0 +1,7 @@
+{
+  "name": "cookie-consent",
+  "description": "Cookie consent with CookieConsent (`vanilla-cookieconsent`): categories, preferences, auto-clear, revisions and legal pages.",
+  "version": "1.0.0",
+  "tags": ["web", "consent", "privacy"],
+  "requires": []
+}

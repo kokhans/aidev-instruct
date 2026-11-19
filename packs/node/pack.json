@@ -1,0 +1,7 @@
+{
+  "name": "node",
+  "description": "Node.js LTS as the runtime: ESM, node: imports, env files, the permission model and graceful shutdown.",
+  "version": "1.0.0",
+  "tags": ["typescript", "node"],
+  "requires": []
+}

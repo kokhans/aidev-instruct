@@ -1,0 +1,9 @@
+{
+  "name": "zod",
+  "description": "Zod schemas at every boundary: environment, forms, request bodies and API responses.",
+  "version": "1.0.0",
+  "tags": ["typescript", "validation"],
+  "requires": [
+    "typescript"
+  ]
+}

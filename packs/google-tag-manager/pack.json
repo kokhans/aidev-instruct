@@ -1,0 +1,7 @@
+{
+  "name": "google-tag-manager",
+  "description": "Google Tag Manager as the single tag loader: container snippet, data layer, Consent Mode v2, environments and CSP.",
+  "version": "1.0.0",
+  "tags": ["analytics", "google", "tag-manager"],
+  "requires": []
+}

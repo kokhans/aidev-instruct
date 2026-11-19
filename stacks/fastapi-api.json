@@ -1,0 +1,9 @@
+{
+  "name": "fastapi-api",
+  "description": "FastAPI service on Python.",
+  "version": "1.0.0",
+  "packs": [
+    "fastapi",
+    "code-reviewer"
+  ]
+}

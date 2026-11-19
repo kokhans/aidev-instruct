@@ -1,0 +1,7 @@
+{
+  "name": "docker",
+  "description": "Dockerfiles with multi-stage builds, non-root users, BuildKit mounts and minimal base images, plus Compose for local development.",
+  "version": "1.0.0",
+  "tags": ["containers", "infrastructure"],
+  "requires": []
+}

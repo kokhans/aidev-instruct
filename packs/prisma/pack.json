@@ -1,0 +1,9 @@
+{
+  "name": "prisma",
+  "description": "Prisma ORM: prisma-client generator, prisma.config.ts, driver adapters, queries, transactions, raw SQL and Prisma Migrate.",
+  "version": "1.0.0",
+  "tags": ["typescript", "data", "orm"],
+  "requires": [
+    "typescript"
+  ]
+}

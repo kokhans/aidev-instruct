@@ -1,0 +1,9 @@
+{
+  "name": "elysia",
+  "description": "Elysia HTTP APIs: plugins, hook scopes, macros, TypeBox validation, errors, OpenAPI and Eden clients.",
+  "version": "1.0.0",
+  "tags": ["typescript", "api", "backend"],
+  "requires": [
+    "typescript"
+  ]
+}

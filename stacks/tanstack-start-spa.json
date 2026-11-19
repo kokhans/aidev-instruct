@@ -1,0 +1,20 @@
+{
+  "name": "tanstack-start-spa",
+  "description": "TanStack Start as a single-page app, with TanStack Query and TanStack Form.",
+  "version": "1.0.0",
+  "packs": [
+    "tanstack-start-spa",
+    "tanstack-query",
+    "tanstack-form",
+    "typescript",
+    "zod",
+    "biome",
+    "vitest",
+    "playwright",
+    "tailwind",
+    "responsive",
+    "accessibility",
+    "web-security",
+    "code-reviewer"
+  ]
+}

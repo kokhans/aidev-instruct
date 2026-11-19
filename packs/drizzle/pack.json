@@ -1,0 +1,9 @@
+{
+  "name": "drizzle",
+  "description": "Drizzle ORM for any database: schema, row types, relations, queries, transactions and Drizzle Kit migrations.",
+  "version": "1.0.0",
+  "tags": ["typescript", "data", "orm"],
+  "requires": [
+    "typescript"
+  ]
+}

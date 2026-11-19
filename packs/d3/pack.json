@@ -1,0 +1,9 @@
+{
+  "name": "d3",
+  "description": "D3 modules for scales, shapes, layouts and data joins in typed, accessible SVG and canvas charts.",
+  "version": "1.0.0",
+  "tags": ["charts", "visualization", "ui"],
+  "requires": [
+    "typescript"
+  ]
+}

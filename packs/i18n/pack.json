@@ -1,0 +1,7 @@
+{
+  "name": "i18n",
+  "description": "Multiple languages: locale URLs, translated messages, Intl formatting, right-to-left layout and localized metadata.",
+  "version": "1.0.0",
+  "tags": ["web", "i18n"],
+  "requires": []
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dataverse",
+  "description": "Microsoft Dataverse: solutions and publishers, table names, the pac CLI, environment variables, deployment settings and service protection limits.",
+  "version": "1.0.0",
+  "tags": ["power-platform", "dataverse"],
+  "requires": []
+}

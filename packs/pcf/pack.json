@@ -1,0 +1,11 @@
+{
+  "name": "pcf",
+  "description": "Power Apps component framework code components: pac pcf init, the manifest, virtual React controls on platform libraries with React 16.14.0 and Fluent UI 9.46.2, updateView and release builds.",
+  "version": "1.0.0",
+  "tags": ["power-platform", "power-apps"],
+  "requires": [
+    "dataverse",
+    "typescript",
+    "react@16"
+  ]
+}

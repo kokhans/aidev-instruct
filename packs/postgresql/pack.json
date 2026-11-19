@@ -1,0 +1,6 @@
+{
+  "name": "postgresql",
+  "description": "PostgreSQL schema design for any ORM or raw SQL: column types, constraints, indexes, locks, zero-downtime schema changes and query plans.",
+  "version": "1.0.0",
+  "tags": ["data", "postgresql", "sql"]
+}

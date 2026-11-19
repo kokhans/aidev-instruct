@@ -1,0 +1,15 @@
+{
+  "name": "elysia-api",
+  "description": "Elysia HTTP API with Drizzle on PostgreSQL and better-auth.",
+  "version": "1.0.0",
+  "packs": [
+    "elysia",
+    "typescript",
+    "zod",
+    "biome",
+    "vitest",
+    "drizzle-postgresql",
+    "better-auth",
+    "code-reviewer"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "code-reviewer",
+  "description": "Read-only code reviewer agent that checks changes against the project's installed rules.",
+  "version": "1.0.0",
+  "tags": ["review", "code-quality"],
+  "requires": []
+}

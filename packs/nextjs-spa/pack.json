@@ -1,0 +1,12 @@
+{
+  "name": "nextjs-spa",
+  "description": "Next.js as a static export: output: export, build-time Server Components, client data and static hosting.",
+  "version": "1.0.0",
+  "tags": ["nextjs", "react", "spa"],
+  "requires": [
+    "nextjs"
+  ],
+  "conflicts": [
+    "nextjs-ssr"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-uet",
+  "description": "Microsoft Advertising Universal Event Tracking (UET): tag loading, page views on client routing, conversion events, consent mode and CSP.",
+  "version": "1.0.0",
+  "tags": ["analytics", "microsoft", "ads"],
+  "requires": []
+}

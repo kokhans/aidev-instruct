@@ -1,0 +1,11 @@
+{
+  "name": "dataverse-plugins",
+  "description": "Dataverse plug-ins and custom workflow activities on .NET Framework 4.8: IPlugin, stateless classes, pipeline stages, tracing, the 2-minute limit and plug-in packages.",
+  "version": "1.0.0",
+  "tags": ["power-platform", "dataverse", "dotnet"],
+  "requires": [
+    "dataverse",
+    "csharp@7.3",
+    "dotnet@4.8"
+  ]
+}

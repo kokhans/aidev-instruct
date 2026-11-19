@@ -1,0 +1,12 @@
+{
+  "name": "react-router-spa",
+  "description": "React Router framework mode as a single-page app: ssr: false, clientLoader, clientAction and a static build.",
+  "version": "1.0.0",
+  "tags": ["react", "react-router", "spa"],
+  "requires": [
+    "react-router"
+  ],
+  "conflicts": [
+    "react-router-ssr"
+  ]
+}

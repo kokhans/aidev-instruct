@@ -1,0 +1,9 @@
+{
+  "name": "biome",
+  "description": "Biome for linting, formatting and import sorting, with one config per repository.",
+  "version": "1.0.0",
+  "tags": ["typescript", "lint", "format"],
+  "requires": [
+    "typescript"
+  ]
+}

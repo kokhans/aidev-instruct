@@ -1,0 +1,9 @@
+{
+  "name": "tanstack-table",
+  "description": "TanStack Table for React: useTable, tableFeatures, row model factories, store-backed state and server-side data.",
+  "version": "1.0.0",
+  "tags": ["tanstack", "react", "data"],
+  "requires": [
+    "react@>=18"
+  ]
+}

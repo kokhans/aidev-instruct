@@ -1,0 +1,6 @@
+{
+  "name": "python",
+  "description": "Python with uv, Ruff, a strict type checker and pytest: pyproject.toml setup and code conventions.",
+  "version": "1.0.0",
+  "tags": ["python"]
+}

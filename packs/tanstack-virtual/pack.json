@@ -1,0 +1,9 @@
+{
+  "name": "tanstack-virtual",
+  "description": "TanStack Virtual for React: list, grid and window virtualizers, dynamic measurement and end-anchored feeds.",
+  "version": "1.0.0",
+  "tags": ["tanstack", "react", "ui"],
+  "requires": [
+    "react@>=16"
+  ]
+}

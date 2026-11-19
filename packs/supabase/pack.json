@@ -1,0 +1,9 @@
+{
+  "name": "supabase",
+  "description": "Supabase with supabase-js and @supabase/ssr: API keys, auth checks, Row Level Security, grants, CLI migrations and generated types.",
+  "version": "1.0.0",
+  "tags": ["typescript", "data", "auth"],
+  "requires": [
+    "typescript"
+  ]
+}

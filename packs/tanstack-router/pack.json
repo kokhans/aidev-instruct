@@ -1,0 +1,13 @@
+{
+  "name": "tanstack-router",
+  "description": "TanStack Router for React: file-based routes, type registration, loaders, search params, preloading and not-found handling.",
+  "version": "1.0.0",
+  "tags": ["tanstack", "react", "routing"],
+  "requires": [
+    "react@>=18"
+  ],
+  "conflicts": [
+    "react-router",
+    "nextjs"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "chat.useAgentsMdFile": true,
+  "chat.useClaudeMdFile": false,
+  "python.terminal.useEnvFile": true,
+  "sarif-viewer.connectToGithubCodeScanning": "off"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "azure-signalr",
+  "description": "Azure SignalR Service for ASP.NET Core SignalR: service modes, managed identity, sending from other services, graceful shutdown, the local emulator and limits.",
+  "version": "1.0.0",
+  "tags": ["azure", "realtime"],
+  "requires": [
+    "signalr"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "react-router-ssr",
+  "description": "React Router framework mode with server rendering.",
+  "version": "1.0.0",
+  "packs": [
+    "react-router-ssr",
+    "typescript",
+    "zod",
+    "biome",
+    "vitest",
+    "playwright",
+    "tailwind",
+    "responsive",
+    "accessibility",
+    "web-security",
+    "code-reviewer"
+  ]
+}

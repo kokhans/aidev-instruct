@@ -1,0 +1,28 @@
+# <%name%> Feed
+
+Packs and stacks for this company, read by `aidev-instruct` from the latest release of this repository.
+
+## Packs
+
+```json
+{
+  "name": "<%name%>-example",
+  "description": "What the pack covers.",
+  "version": "1.0.0",
+  "tags": ["example"],
+  "requires": [],
+  "conflicts": []
+}
+```
+
+- `name` matches the folder and starts with `<%name%>-`.
+- `version` is bumped by `npx aidev-instruct@<%version%> feed release`; never edit it by hand.
+- `requires` may name official packs such as `react`.
+- Rules live in `rules/<item>.md` with a `description` and `globs`, skills in `skills/<item>/SKILL.md`, agents in `agents/<item>.md`.
+
+## Writing Style
+
+- One H1 per file. Headings use Title Case.
+- No em dashes.
+- One rule per bullet, in plain present tense.
+- Package, file, API and command names go in backticks.

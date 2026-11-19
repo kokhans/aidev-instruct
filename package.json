@@ -1,0 +1,59 @@
+{
+  "name": "aidev-instruct",
+  "version": "0.1.0",
+  "description": "Rules, skills and agents for GitHub Copilot, Claude Code and Cursor, installed per tech stack.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokhans/aidev-instruct.git"
+  },
+  "type": "module",
+  "bin": {
+    "aidev-instruct": "dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "packs",
+    "stacks"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "copilot",
+    "claude-code",
+    "cursor",
+    "rules",
+    "skills"
+  ],
+  "scripts": {
+    "build": "bun scripts/build.ts",
+    "check": "biome check . && tsc --noEmit && vitest run --coverage",
+    "format": "biome check --write .",
+    "test": "vitest run",
+    "prepublishOnly": "bun run check && bun run build",
+    "sandbox": "bun run src/cli.ts --dir sandbox",
+    "sandbox:reset": "rm -rf sandbox",
+    "sandbox:package": "bun scripts/sandbox-package.ts",
+    "docs": "bun scripts/docs.ts",
+    "registry": "bun scripts/registry.ts",
+    "release": "bun scripts/release.ts",
+    "validate": "bun scripts/validate-packs.ts"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.6.8",
+    "@types/mustache": "^4.2.6",
+    "@types/node": "^26.6.6",
+    "@types/semver": "^7.8.0",
+    "@vitest/coverage-v8": "5.1.0",
+    "commander": "^14.0.3",
+    "mustache": "^4.2.0",
+    "semver": "^7.8.6",
+    "tar": "^7.5.23",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.0",
+    "yaml": "^2.9.1"
+  }
+}

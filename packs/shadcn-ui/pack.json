@@ -1,0 +1,13 @@
+{
+  "name": "shadcn-ui",
+  "description": "shadcn/ui components owned as project code, on Base UI, Radix or React Aria primitives, with the shadcn CLI and registries.",
+  "version": "1.0.0",
+  "tags": ["react", "ui", "components"],
+  "requires": [
+    "react@>=17",
+    "tailwind"
+  ],
+  "notes": [
+    "Add the shadcn/ui skill for your agents: `npx skills add shadcn/ui`"
+  ]
+}

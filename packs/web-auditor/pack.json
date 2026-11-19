@@ -1,0 +1,7 @@
+{
+  "name": "web-auditor",
+  "description": "Read-only agent that audits a running website against the project's installed rules, plus a release checklist.",
+  "version": "1.0.0",
+  "tags": ["review", "web", "audit"],
+  "requires": []
+}

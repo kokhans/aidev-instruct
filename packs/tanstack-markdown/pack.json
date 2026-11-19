@@ -1,0 +1,9 @@
+{
+  "name": "tanstack-markdown",
+  "description": "TanStack Markdown: a small synchronous Markdown parser with HTML and React renderers, safe defaults and an AI streaming profile.",
+  "version": "1.0.0",
+  "tags": ["tanstack", "markdown"],
+  "requires": [
+    "typescript"
+  ]
+}
